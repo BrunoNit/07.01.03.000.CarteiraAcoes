@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarteiraDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_carteira_acoes">Sua Carteira de Ações</string>
+</resources>
